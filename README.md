@@ -20,7 +20,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [https://github.com/lantiguav/qr-code-challenge/](https://github.com/lantiguav/qr-code-challenge/)
+- Solution URL: [https://www.frontendmentor.io/solutions/qr-card-with-css-variables-and-flexbox-VTz77A68PI/](https://www.frontendmentor.io/solutions/qr-card-with-css-variables-and-flexbox-VTz77A68PI/)
 - Live Site URL: [https://qr-code-challenge-three-liart.vercel.app/](https://qr-code-challenge-three-liart.vercel.app/)
 
 ## My process
