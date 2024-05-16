@@ -22,6 +22,11 @@ body {
 
 }
 
+.card-container {
+  flex-grow: 1;
+  display: grid;
+  place-content: center;
+}
 
 .card {
   background: var(--white);
