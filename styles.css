@@ -9,16 +9,19 @@
   box-sizing: border-box;
 }
 
+html {
+  min-height: 100vh;
+}
+
+
 body {
   background-color: var(--gray-light);
   font-family: "Outfit", sans-serif;
-  min-height: 100vh;
   max-width: 64rem;
   padding: 2rem;
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
   margin: 0 auto;
+  height: 100vh;
+  display: flex;
 
 }
 
@@ -63,4 +66,8 @@ body {
 
 .attribution {
   text-align: center;
+  position: absolute;
+  bottom: 1rem;
+  left: 2rem;
+  right: 2rem;
 }
